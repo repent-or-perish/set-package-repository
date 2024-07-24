@@ -29,7 +29,7 @@ sudo pkg install gtk3 libappindicator
 ### Clone the Repository
 
 ```
-git clone https://github.com/yourusername/set-pkg-repository.git
+git clone https://github.com/repent-or-perish/set-pkg-repository.git
 cd set-pkg-repository
 ```
 
